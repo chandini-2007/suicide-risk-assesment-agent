@@ -41,7 +41,7 @@ h1,h2,h3{
 # -----------------------------
 # Title
 # -----------------------------
-st.title("🧠 Suicide Detection AI Agent")
+st.title("🧠 Suicide Risk Assessment Agent")
 
 st.write("Enter your thoughts below to analyze emotional risk.")
 
