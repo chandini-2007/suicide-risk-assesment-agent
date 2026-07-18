@@ -5,7 +5,7 @@ import joblib
 # Page Configuration
 # -----------------------------
 st.set_page_config(
-    page_title="Suicide Detection AI Agent",
+    page_title="Suicide Risk Assessment Agent",
     page_icon="🧠",
     layout="wide"
 )
